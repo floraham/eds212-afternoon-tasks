@@ -20,3 +20,4 @@ ggpairs(data = diamonds)
 ggplot(data = diamonds, aes(x = carat)) + geom_point()+ hist(x=diamonds$carat)
 ```
 
+33
